@@ -7,6 +7,6 @@ import * as _ from 'lodash';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-
+name = 'dank';
 
 }
